@@ -1,0 +1,15 @@
+bcrypt==3.2.0
+cffi==1.14.6
+cryptography==3.4.8
+importlib-metadata==4.8.1
+jsonpickle==2.0.0
+paramiko==2.7.2
+pycparser==2.20
+PyNaCl==1.4.0
+PyYAML==5.4.1
+scp==0.14.1
+six==1.16.0
+tk==0.1.0
+typing-extensions==3.10.0.2
+zipp==3.5.0
+alive-progress
